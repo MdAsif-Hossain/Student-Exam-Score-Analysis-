@@ -49,9 +49,16 @@ This analysis investigates how the level of parental education (e.g., high schoo
 ![Parental Education Influence](path/to/parental_education_image)
 
 
+### 4. 💍 Parent Marital Status
+This analysis investigates how parental marital status iffect student's exam score 
+**Placeholder for Visualization:**
+
+![Parental Education Influence](path/to/parental_education_image)
 
 
-### 4. 🌍 EthnicGroup Distribution
+
+
+### 5. 🌍 EthnicGroup Distribution
 
 
 **Placeholder for Visualization:**
