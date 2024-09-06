@@ -28,16 +28,16 @@ The dataset contains missing values in multiple columns, including `EthnicGroup`
 
 **Placeholder for Visualization:**
 
-![Data Cleaning Visualization](path/to/cleaning_image)
+![Data Cleaning Visualization]([path/to/cleaning_image](https://github.com/MdAsif-Hossain/Student-Exam-Score-Analysis-/blob/main/Screenshot%202024-09-06%20165526.png))
 
 ---
 
-### 2. 👩‍🏫 Gender-wise Performance
+### 2. 👩‍🏫 Gender Distribution
 We analyze the number of male and female students across subjects. This reveals insights into how gender influences academic achievement.
 
 **Placeholder for Visualization:**
 
-![Gender-wise Performance](path/to/gender_performance_image)
+![Gender-wise Performance]([path/to/gender_performance_image](https://github.com/MdAsif-Hossain/Student-Exam-Score-Analysis-/blob/main/Gender.png))
 
 ---
 
@@ -46,14 +46,14 @@ This analysis investigates how the level of parental education (e.g., high schoo
 
 **Placeholder for Visualization:**
 
-![Parental Education Influence](path/to/parental_education_image)
+![Parental Education Influence]([path/to/parental_education_image](https://github.com/MdAsif-Hossain/Student-Exam-Score-Analysis-/blob/main/Edu.png))
 
 
 ### 4. 💍 Parent Marital Status
 This analysis investigates how parental marital status iffect student's exam score 
 **Placeholder for Visualization:**
 
-![Parental Education Influence](path/to/parental_education_image)
+![Parental Education Influence]([path/to/parental_education_image](https://github.com/MdAsif-Hossain/Student-Exam-Score-Analysis-/blob/main/marital%20status.png))
 
 
 
@@ -63,7 +63,7 @@ This analysis investigates how parental marital status iffect student's exam sco
 
 **Placeholder for Visualization:**
 
-![Additional Factors](path/to/additional_factors_image)
+![Additional Factors]([path/to/additional_factors_image](https://github.com/MdAsif-Hossain/Student-Exam-Score-Analysis-/blob/main/Edu.png))
 
 ---
 
